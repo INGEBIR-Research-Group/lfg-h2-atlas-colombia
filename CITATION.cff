@@ -5,6 +5,7 @@ title: "Landfill-gas hydrogen atlas of Colombia"
 abstract: >-
   Code and input data of a site-resolved national assessment of the hydrogen that the landfill gas of the 248 disposal sites active in Colombia in 2024 could supply between 2026 and 2040 through catalytic steam reforming or electrolysis, with its levelized cost and cradle-to-gate carbon intensity and a Monte Carlo propagation of the uncertainty.
 version: "1.0.0"
+doi: "10.5281/zenodo.23650141"
 date-released: "2026-10-25"
 license: MIT
 keywords:
