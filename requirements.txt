@@ -1,0 +1,12 @@
+# Versions with which the results of the article were obtained (Python 3.13)
+pandas==3.0.5
+numpy==2.5.3
+scipy==1.18.1
+statsmodels==0.15.0
+geopandas==1.2.0
+shapely==2.2.0
+pyogrio==0.13.0
+pyproj==3.8.0
+openpyxl==3.1.5
+cantera==3.2.0
+requests==2.34.2

@@ -1,0 +1,8 @@
+Landfill-gas hydrogen atlas of Colombia, input data 
+Copyright (c) 2026 Daniel D. Otero Meza, Fernando Vidal Barrero, Juan J. Cabello Eras, Juan C. Solarte Toro and Carlos A. Cardona Alzate
+
+The files produced by the authors, namely the harmonization tables of inputs/ (landfilling_site_code_imputed.csv, site_overrides.csv, site_row_fixes.csv and site_facts.csv) and the measured compositions of inputs/composition/ (msw_composition_measured.csv), are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+
+You are free to share and adapt these files for any purpose, provided that you give appropriate credit, provide a link to the license and indicate if changes were made.
+
+The public records redistributed in inputs/ (the DANE population projections and DIVIPOLA codes, the IDEAM climate normals, the IGAC municipal boundaries, the records of the SSPD and of the operator of the Doña Juana landfill, and the UPME departmental profiles) remain subject to the terms of their original publishers, which are listed, with their sources and access dates, in PROVENANCE.md.

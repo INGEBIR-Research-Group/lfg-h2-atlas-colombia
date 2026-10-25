@@ -1,0 +1,22 @@
+site_id,opened_year,opened_source,capture_basis,capture_ch4_t_lo,capture_ch4_t_mode,capture_ch4_t_hi,capture_frac_lo,capture_frac_mode,capture_frac_hi,capture_years,capture_source
+11001|DONA JUANA,1988,CDM PDD 2554 (operating since November 1988),metered flow to flare and engines,31354,35092,38388,,,,2021-2025,Operator flow records 2021-2025 (records/dona_juana_biogas_year.csv); 55 % CH4; range is the lowest and highest year
+05237|LA PRADERA,2003,CDM PDD 2183 (Curva de Rodas 1984-2003; La Pradera operating since 2003),inspected flare flow,3140,3799,4144,,,,2019,SSPD inspection 2019 (station running near 1100 m3/h); range 1000-1200 m3/h at 50-55 % CH4
+76890|COLOMBA EL GUABAL,2008,CDM PDD (opened 25 June 2008),none,,,,,,,,SSPD inspections list no operating gas destruction
+08296|LOS POCITOS,2009,CDM PDD; SUI opened_on 2009-04-01,none,,,,,,,,
+25099|NUEVO MONDONEDO,2007,CDM PDD (14 March 2007); SUI dates 2005-2007,extraction and flare confirmed; flow not reported,,,,0.10,0.20,0.30,2019,SSPD inspection 2019 (suction to an operating flare; no flow reported); share of generation assumed
+13838|LOMA DE LOS COCOS,2005,CDM PDD; SUI opened_on 2005-05-10,none,,,,,,,,
+68001|EL CARRASCO,1978,Alcaldía de Bucaramanga and Vanguardia (2024): disposal at El Carrasco since 1978,none,,,,,,,,
+54001|GUAYABAL,2000,SUI opened_on 2000-11-09,none,,,,,,,,
+66001|LA GLORITA,1997,CDM PDD; SUI opened_on 1997-07-31,none,,,,,,,,
+76670|PRESIDENTE,1998,CDM PDD 6804 (1998); SUI 1999-12-01,inspected flare flow,1209,1554,1899,,,,2019,SSPD inspection 2019 (350-550 Nm3/h burned) at 55 % CH4
+47001|PALANGANA,2004,CDM PDD Interaseo (waste series from 2004),none,,,,,,,,
+50001|RECICLANTE,2008,SUI opened_on 2008-01-06,none,,,,,,,,
+17001|LA ESMERALDA,1999,SUI opened_on 1999-09-20,none,,,,,,,,
+73001|LA MIEL,2004,CDM PDD Interaseo (waste series from 2004),none,,,,,,,,
+20001|LOS CORAZONES,2002,CDM PDD Interaseo (waste series from 2002),none,,,,,,,,
+23001|LOMA GRANDE,2006,CDM PDD (2006),none,,,,,,,,
+52001|ANTANAS,2001,CDM PDD 2794 (April 2001); SUI 2001-04-01,none,,,,,,,,
+63470|ANDALUCIA,2006,CDM PDD (2006),none,,,,,,,,
+70001|EL OASIS,2002,CDM PDD Interaseo (waste series from 2002),none,,,,,,,,
+15001|PIRGUA,2005,CDM PDD 4424 (2005),none,,,,,,,,
+05347|EL GUACAL,2006,CDM PDD 3995 (1 July 2006),none,,,,,,,,

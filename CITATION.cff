@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this software or its input data, please cite the article and this record, and the original sources listed in inputs/PROVENANCE.md."
+type: software
+title: "Landfill-gas hydrogen atlas of Colombia"
+abstract: >-
+  Code and input data of a site-resolved national assessment of the hydrogen that the landfill gas of the 248 disposal sites active in Colombia in 2024 could supply between 2026 and 2040 through catalytic steam reforming or electrolysis, with its levelized cost and cradle-to-gate carbon intensity and a Monte Carlo propagation of the uncertainty.
+version: "1.0.0"
+date-released: "2026-10-25"
+license: MIT
+keywords:
+  - green hydrogen
+  - landfill gas
+  - municipal solid waste
+  - steam reforming
+  - electrolysis
+  - levelized cost of hydrogen
+  - carbon intensity
+  - Monte Carlo
+  - Colombia
+authors:
+  - family-names: "Otero Meza"
+    given-names: "Daniel D."
+    orcid: "https://orcid.org/0000-0003-2889-7895"
+    affiliation: "INGEBIR Research Group, Department of Agricultural Engineering, University of Sucre, Sincelejo, Colombia"
+    email: "daniel.otero@unisucre.edu.co"
+preferred-citation:
+  type: article
+  title: "A Site-Resolved Atlas of Potential, Cost and Carbon Intensity for Green Hydrogen from Landfill Gas in Colombia"
+  journal: "Hydrogen"
+  status: submitted
+  authors:
+    - family-names: "Otero Meza"
+      given-names: "Daniel D."
+      orcid: "https://orcid.org/0000-0003-2889-7895"
+    - family-names: "Vidal Barrero"
+      given-names: "Fernando"
+      orcid: "https://orcid.org/0000-0001-5286-8328"
+    - family-names: "Cabello Eras"
+      given-names: "Juan J."
+      orcid: "https://orcid.org/0000-0003-0949-0862"
+    - family-names: "Solarte Toro"
+      given-names: "Juan C."
+      orcid: "https://orcid.org/0000-0003-1143-8940"
+    - family-names: "Cardona Alzate"
+      given-names: "Carlos A."
+      orcid: "https://orcid.org/0000-0002-0237-2313"

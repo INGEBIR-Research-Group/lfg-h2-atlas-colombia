@@ -1,0 +1,8 @@
+# Code and text keep LF line endings on every system
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.cff text eol=lf
+*.json text eol=lf
+# The input data are stored exactly as distributed, with no line-ending conversion
+inputs/** -text

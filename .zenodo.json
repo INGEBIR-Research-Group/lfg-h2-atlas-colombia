@@ -1,0 +1,55 @@
+{
+  "title": "Landfill-gas hydrogen atlas of Colombia",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "<p>Code and input data of a site-resolved national assessment of the hydrogen that the landfill gas of the 248 disposal sites active in Colombia in 2024 could supply between 2026 and 2040, through catalytic steam reforming with pressure swing adsorption or through alkaline electrolysis powered by landfill-gas electricity. For every site, the code reconstructs the deposits of municipal solid waste, estimates the methane they generate with a first-order decay model and the part that a collection field would recover, and calculates the hydrogen of both routes, its levelized cost and its cradle-to-gate carbon intensity, with a Monte Carlo propagation of the uncertainty over 10,000 realizations. It also includes a thermodynamic balance of the reformer island, checks of the reformer cost fit, consistency checks against the methane recovered at nine sites, and variants of operation, collection efficiency, dependence between sites and cost.</p><p>The inputs are the final-disposal registry of the Superintendency of Residential Public Services (SSPD), harmonized into 1,868 sites, the population projections and codes of the National Administrative Department of Statistics (DANE), the municipal boundaries of the Agustín Codazzi Geographic Institute (IGAC), the climate normals of the IDEAM, the MSW characterizations of 56 municipal plans and of the Mining and Energy Planning Unit (UPME), and the public records of recovered methane. From them, the code computes the results reported in the article <em>A Site-Resolved Atlas of Potential, Cost and Carbon Intensity for Green Hydrogen from Landfill Gas in Colombia</em> (Hydrogen, MDPI). See README.md, inputs/PROVENANCE.md and docs/data_dictionary.md.</p>",
+  "creators": [
+    {
+      "name": "Otero Meza, Daniel D.",
+      "affiliation": "University of Sucre, INGEBIR Research Group",
+      "orcid": "0000-0003-2889-7895"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Vidal Barrero, Fernando",
+      "affiliation": "University of Seville",
+      "orcid": "0000-0001-5286-8328",
+      "type": "Supervisor"
+    },
+    {
+      "name": "Cabello Eras, Juan J.",
+      "affiliation": "University of Córdoba",
+      "orcid": "0000-0003-0949-0862",
+      "type": "Researcher"
+    },
+    {
+      "name": "Solarte Toro, Juan C.",
+      "affiliation": "National University of Colombia",
+      "orcid": "0000-0003-1143-8940",
+      "type": "Researcher"
+    },
+    {
+      "name": "Cardona Alzate, Carlos A.",
+      "affiliation": "National University of Colombia",
+      "orcid": "0000-0002-0237-2313",
+      "type": "Researcher"
+    }
+  ],
+  "keywords": [
+    "green hydrogen",
+    "landfill gas",
+    "municipal solid waste",
+    "methane",
+    "steam reforming",
+    "electrolysis",
+    "levelized cost of hydrogen",
+    "carbon intensity",
+    "methane slip",
+    "Monte Carlo",
+    "Colombia"
+  ],
+  "license": "MIT",
+  "language": "eng",
+  "notes": "The code is released under the MIT License. The tables prepared by the authors in inputs/ are released under CC BY 4.0 (inputs/LICENSE), and the public records redistributed there remain subject to the terms of their publishers, listed in inputs/PROVENANCE.md."
+}
